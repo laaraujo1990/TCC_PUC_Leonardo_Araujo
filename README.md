@@ -1,0 +1,2 @@
+# TCC_PUC_Leonardo_Araujo
+Trabalho de Conclusão de Curso - MODELO DE REGRESSÃO LINEAR PARA PREVER A NOTA DE UM CANDIDATO DO ENEM BASEADO EM SEU PERFIL SOCIOECONÔMICO - Aluno: Leonardo Almeida de Araújo
